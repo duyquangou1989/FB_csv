@@ -1,0 +1,172 @@
+id,name,is_published,Type
+21445,Aqua sport bottle with HC logo,True,String
+21536,Banh Chuoi,True,String
+21547,Banh mi ca ngu,True,String
+21550,Banh Mi Ca Ri Ga,True,String
+21552,Banh Mi Cha Lua,True,Boolean
+21553,Banh Mi Cha Lua Xa Xiu,True,Boolean
+21558,Banh mi ga xe nuoc tuong,True,String
+21561,Banh Mi Nam,True,String
+21564,Banh Mi Xa Xiu,True,Boolean
+21567,Banh Mousse Cacao,True,String
+21572,Banh mousse dao,True,String
+21583,N/A,True,String
+21584,Banh Pho Mai Caramel,True,String
+21585,Banh Pho Mai Chanh Day,True,String
+21589,Banh Pho Mai Tra Xanh,True,String
+21598,Banh Socola Highlands,True,String
+21599,Banh Sua Chua Do,True,String
+21601,Bánh Tiramisu,True,String
+21769,Black large Mug with HC logo,True,String
+21787,Black sport bottle w HC logo,True,String
+21838,BM Dau Hu,True,Boolean
+21844,BM Thit Nuong S,True,Boolean
+21847,BM Xiu Mai S,True,Boolean
+21950,Brewed bamboo tumbler 500ml,True,String
+22043,Ca Phe Culi - 200g,True,String
+22045,Ca phe di san - 200g,True,String
+22047,Ca phe hoa tan 3 trong 1 - 20 goi,True,String
+22048,Ca phe hoa tan 3 trong 1 - 40 goi,True,String
+22049,Ca Phe Moka - 200g,True,String
+22050,Ca phe rang Full city Roast - 1kg,True,String
+22051,Ca phe sanh dieu - 200g,True,String
+22053,Ca phe truyen thong - 1kg,True,String
+22054,Ca phe truyen thong - 200g,True,String
+29437,HC 185ml (Black),True,String
+29440,HC logo SS straw set,True,String
+29897,Mosaic Mug No.10,True,String
+29900,Mosaic Mug No.12,True,String
+29902,Mosaic Mug No.13,True,String
+29905,Mosaic Mug No.15,True,String
+29909,Mosaic Mug No.18,True,String
+29915,Mosaic Mug No.6,True,String
+29916,Mosaic Mug No.7,True,String
+30270,Pink sport bottle with HC logo,True,String
+34315,Premium bamboo tumbler 500ml,True,String
+34411,Red embossed mug with HC Logo,True,String
+34448,Red sport bottle with HC logo,True,String
+34477,Red vacuum tumbler,True,String
+34756,Silver vacuum tumbler,True,String
+35210,N/A,True,String
+35212,N/A,True,String
+35213,N/A,True,String
+35215,N/A,True,String
+35218,N/A,True,String
+35474,White embossed mug w HC Logo,True,String
+35482,White large Mug with HC logo,True,String
+35486,White leaf tumbler with straw,True,String
+35504,White sport bottle w HC logo,True,String
+35550,Yellow sport bottle w HC logo,True,String
+35614,Chanh Da Vien,True,String
+35615,Chanh Nong,True,String
+35616,Chanh day da vien,True,String
+35617,Tac/Quat da vien,True,String
+35676,Chanh Da Xay,True,String
+36460,HC 235ml (Sua),True,String
+36466,Banh Mousse Caramel Cam,True,Boolean
+36467,Banh Mousse Xoai-Chanh Day,True,Boolean
+36471,Tra Sen Vang Moi,True,String
+36635,Matte black leaf tumbler,True,String
+36636,Matte silver leaf tumbler,True,String
+36637,Glossy aqua leaf tumbler,True,String
+36672,Slow brewed bamboo tbler 300ml,True,String
+36673,Premium bamboo tumbler 300ml,True,String
+36686,Free Product - Phin den da,False,String
+36687,Chanh Day Nong.,True,String
+36688,Chanh Day Nong (copy),True,String
+36689,Free Product - Tra sen vang,False,String
+36690,Free Product - Freeze tra xanh,False,String
+36691,Free Product - Americano,False,String
+36692,100.0% discount on total amount,False,String
+36693,100.0% discount on total amount,False,String
+36694,100.0% discount on total amount,False,String
+36695,100.0% discount on total amount,False,String
+36696,Free Product - Americano,False,String
+36697,Free Product - Americano,False,String
+36698,Free Product - Americano,False,String
+36699,Free Product - Bac Xiu,False,String
+36700,Free Product - Cappuccino,False,String
+36701,Free Product - Latte,False,String
+36702,Free Product - Nuoc tinh khiet,False,String
+36703,Free Product - Phin den da,False,String
+36704,Free Product - Phin den da,False,String
+36705,Free Product - Phin den da,False,String
+36706,Free Product - Phin sua da,False,String
+36707,Free Product - Phin sua da,False,String
+36708,Free Product - Tra sen vang,False,String
+36709,Free Product - Tra sen vang,False,String
+36710,Free Product - Tra thach vai,False,String
+36711,10.0% discount on total amount,False,String
+36712,10.0% discount on total amount,False,String
+36713,10.0% discount on total amount,False,String
+36714,10.0% discount on total amount,False,String
+36715,10.0% discount on total amount,False,String
+36716,10.0% discount on total amount,False,String
+36717,10.0% discount on total amount,False,String
+36718,10.0% discount on total amount,False,String
+36719,10.0% discount on total amount,False,String
+36720,10.0% discount on total amount,False,String
+36721,10.0% discount on total amount,False,String
+36722,10.0% discount on total amount,False,String
+36723,10.0% discount on total amount,False,String
+36724,10.0% discount on total amount,False,String
+36725,10.0% discount on total amount,False,String
+36726,10.0% discount on total amount,False,String
+36727,10.0% discount on total amount,False,String
+36728,10.0% discount on total amount,False,String
+36729,10.0% discount on total amount,False,String
+36730,10.0% discount on total amount,False,String
+36731,10.0% discount on total amount,False,String
+36732,10.0% discount on total amount,False,String
+36733,10.0% discount on total amount,False,String
+36734,10.0% discount on total amount,False,String
+36735,10.0% discount on total amount,False,String
+36736,10.0% discount on total amount,False,String
+36737,10.0% discount on total amount,False,String
+36738,10.0% discount on total amount,False,String
+36739,10.0% discount on total amount,False,String
+36740,10.0% discount on total amount,False,String
+36741,10.0% discount on total amount,False,String
+36742,10.0% discount on total amount,False,String
+36743,10.0% discount on total amount,False,String
+36744,10.0% discount on total amount,False,String
+36745,10.0% discount on total amount,False,String
+36746,10.0% discount on total amount,False,String
+36747,Free Product - Tra sen vang,False,String
+36748,Free Product - Phin sua da,False,String
+36749,Free Product - Freeze tra xanh,False,String
+36750,Glossy aqua leaf tumbler (copy),N/A,N/A
+36751,Glossy aqua leaf tumbler (copy),N/A,N/A
+36752,Fes20 red tumbler,True,String
+36753,Fes20 pink tumbler,True,String
+36754,Glossy aqua leaf tumbler (copy),N/A,N/A
+36755,Fes20 green mug (copy),N/A,N/A
+36756,Fes20 red mug (copy),N/A,N/A
+36757,Fes20 red tumbler (copy),N/A,N/A
+36758,Free Product - Tra sen vang,False,String
+36759,Free Product - Tra sen vang,False,String
+36760,Free Product - Tra Sen Vang Moi,False,String
+36761,10.0% discount on total amount,False,String
+8100,Americano,True,String
+8101,Bac Xiu,True,String
+8102,Cappuccino,True,String
+8103,Caramel macchiato,True,String
+8104,Caramel Phin Freeze,True,String
+8105,N/A,True,String
+8106,Classic Phin Freeze,True,String
+8107,Cookies & cream,True,String
+8108,Espresso,True,String
+8109,Freeze socola,True,String
+8110,Freeze tra xanh,True,String
+8111,Latte,True,String
+8112,Mocha,True,String
+8113,Phin den da,True,String
+8114,Phin den nong,True,String
+8115,Phin sua da,True,String
+8116,Phin sua nong,True,String
+8117,Socola,True,String
+8118,Tra sen vang,True,String
+8119,Tra thach dao,True,String
+8120,Tra thach vai,True,String
+8121,Tra thanh dao,True,String
+8122,Tra xanh dau do,True,String
